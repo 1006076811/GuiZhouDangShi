@@ -2,7 +2,10 @@
 # GuiZhouDangShi
 贵州党史学习工具
 关注公众号：LeeTeams 即可享受免费刷分
+
 ![WechatIMG1317](https://user-images.githubusercontent.com/33970123/118350814-45bc9300-b58b-11eb-9574-930190293c19.jpeg)
+
+
 第一步：打开微信vconsole
 第二步：进入贵州党史主页面
 第三步：复制 location.href="https://baidu.com/?uid="+cc.lz.userInfo.account+"&sign="+cc.lz.decword 这串代码到vconsole里。
